@@ -1,0 +1,19 @@
+Tic-Tac-Toe Java Program
+Jason Randazza
+CSC229 - Data Structures & Algorithms
+
+-To download the project
+git clone www.github.com/JasonRandaza/TicTacToe
+
+-Compile Program
+javac TicTactToe.java
+
+-Run Game
+java TicTacToe
+
+Game Rules:
+- Player 'X' always goes first, then player 'O'.
+- Players take turns by entering a position from 1 - 9 to place their symbol  on the board.
+- Game board gets displayed after each move. The game will indicate if there is a winner or a draw.
+- If there is an invalid input the game will prompt the player to try again.
+- After the game ends, the players will be asked if they want to play again.
